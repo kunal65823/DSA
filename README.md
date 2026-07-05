@@ -37,9 +37,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kunal65823/DSA/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/kunal65823/DSA/tree/master/0092-reverse-linked-list-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kunal65823/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kunal65823/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kunal65823/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
