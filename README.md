@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kunal65823/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kunal65823/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kunal65823/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/kunal65823/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kunal65823/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kunal65823/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kunal65823/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kunal65823/DSA/tree/master/0100-same-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kunal65823/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/kunal65823/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kunal65823/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kunal65823/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kunal65823/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kunal65823/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kunal65823/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/kunal65823/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kunal65823/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kunal65823/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Array
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/kunal65823/DSA/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/kunal65823/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -102,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kunal65823/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/kunal65823/DSA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
