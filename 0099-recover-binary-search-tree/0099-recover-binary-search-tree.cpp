@@ -11,32 +11,34 @@
  */
 class Solution {
 public:
-    TreeNode *first, *second, *prev;
+    TreeNode * prev =  NULL;
+    TreeNode* first = NULL;
+    TreeNode* sec = NULL;
 
-    void inorder(TreeNode* root) {
-        if (root == NULL)
+    void inorder(TreeNode* root){
+
+        if(root== NULL){
             return;
+        }
 
         inorder(root->left);
 
-        // Violation found
-        if (prev != NULL && prev->val > root->val) {
-            if (first == NULL) {
+        if(prev != NULL && prev->val > root->val ){
+            if(first  ==NULL){
                 first = prev;
             }
-            second = root;
+            sec = root;
         }
 
         prev = root;
-
         inorder(root->right);
     }
 
     void recoverTree(TreeNode* root) {
-        first = second = prev = NULL;
+        
 
         inorder(root);
 
-        swap(first->val, second->val);
+        swap(first->val, sec->val);
     }
 };
