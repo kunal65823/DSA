@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/kunal65823/DSA/tree/master/0134-gas-station) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunal65823/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kunal65823/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunal65823/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/kunal65823/DSA/tree/master/0047-permutations-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunal65823/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunal65823/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Union-Find
 |  |
 | ------- |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/kunal65823/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunal65823/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
