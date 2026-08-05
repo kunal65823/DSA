@@ -1,0 +1,47 @@
+class Solution {
+public:
+    vector<int> remainingMethods(int n, int k, vector<vector<int>>& invocations) {
+
+        vector<vector<int>> graph(n);
+
+        for (auto &e : invocations)
+            graph[e[0]].push_back(e[1]);
+
+        vector<int> vis(n, 0);
+
+        // DFS to mark suspicious methods
+        function<void(int)> dfs = [&](int u) {
+            vis[u] = 1;
+            for (int v : graph[u]) {
+                if (!vis[v])
+                    dfs(v);
+            }
+        };
+
+        dfs(k);
+
+        // If any non-suspicious method invokes a suspicious one,
+        // removal is impossible.
+        for (auto &e : invocations) {
+            int a = e[0];
+            int b = e[1];
+
+            if (!vis[a] && vis[b]) {
+                vector<int> ans;
+                for (int i = 0; i < n; i++)
+                    ans.push_back(i);
+                return ans;
+            }
+        }
+
+        // Return remaining methods
+        vector<int> ans;
+
+        for (int i = 0; i < n; i++) {
+            if (!vis[i])
+                ans.push_back(i);
+        }
+
+        return ans;
+    }
+};
