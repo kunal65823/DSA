@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/kunal65823/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kunal65823/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kunal65823/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [3310-remove-methods-from-project](https://github.com/kunal65823/DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/kunal65823/DSA/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kunal65823/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kunal65823/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [3310-remove-methods-from-project](https://github.com/kunal65823/DSA/tree/master/3310-remove-methods-from-project) |
 ## String Matching
 |  |
 | ------- |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kunal65823/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kunal65823/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/kunal65823/DSA/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/kunal65823/DSA/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
