@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kunal65823/DSA/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/kunal65823/DSA/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/kunal65823/DSA/tree/master/0043-multiply-strings) |
 | [0486-predict-the-winner](https://github.com/kunal65823/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunal65823/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kunal65823/DSA/tree/master/0877-stone-game) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kunal65823/DSA/tree/master/0043-multiply-strings) |
 | [0257-binary-tree-paths](https://github.com/kunal65823/DSA/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/kunal65823/DSA/tree/master/0572-subtree-of-another-tree) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kunal65823/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kunal65823/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/kunal65823/DSA/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
