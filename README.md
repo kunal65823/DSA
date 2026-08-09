@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kunal65823/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kunal65823/DSA/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kunal65823/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1140-stone-game-ii](https://github.com/kunal65823/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kunal65823/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunal65823/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/kunal65823/DSA/tree/master/3731-find-missing-elements) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kunal65823/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunal65823/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kunal65823/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/kunal65823/DSA/tree/master/1140-stone-game-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kunal65823/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/kunal65823/DSA/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kunal65823/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -228,12 +230,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/kunal65823/DSA/tree/master/0097-interleaving-string) |
 | [0486-predict-the-winner](https://github.com/kunal65823/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kunal65823/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/kunal65823/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kunal65823/DSA/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kunal65823/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kunal65823/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/kunal65823/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kunal65823/DSA/tree/master/1406-stone-game-iii) |
 ## Graph Theory
 |  |
@@ -247,4 +251,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/kunal65823/DSA/tree/master/0043-multiply-strings) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/kunal65823/DSA/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/kunal65823/DSA/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/kunal65823/DSA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
