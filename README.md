@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/kunal65823/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/kunal65823/DSA/tree/master/0043-multiply-strings) |
 | [0097-interleaving-string](https://github.com/kunal65823/DSA/tree/master/0097-interleaving-string) |
 | [0257-binary-tree-paths](https://github.com/kunal65823/DSA/tree/master/0257-binary-tree-paths) |
