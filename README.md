@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kunal65823/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kunal65823/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0047-permutations-ii](https://github.com/kunal65823/DSA/tree/master/0047-permutations-ii) |
+| [0064-minimum-path-sum](https://github.com/kunal65823/DSA/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kunal65823/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kunal65823/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/kunal65823/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/kunal65823/DSA/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/kunal65823/DSA/tree/master/0097-interleaving-string) |
 | [0486-predict-the-winner](https://github.com/kunal65823/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kunal65823/DSA/tree/master/0877-stone-game) |
@@ -304,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/kunal65823/DSA/tree/master/2029-stone-game-ix) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/kunal65823/DSA/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
