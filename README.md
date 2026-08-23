@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/kunal65823/DSA/tree/master/0134-gas-station) |
 | [1386-cinema-seat-allocation](https://github.com/kunal65823/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/kunal65823/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kunal65823/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kunal65823/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kunal65823/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kunal65823/DSA/tree/master/1140-stone-game-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kunal65823/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/kunal65823/DSA/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/kunal65823/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kunal65823/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kunal65823/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kunal65823/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/kunal65823/DSA/tree/master/0097-interleaving-string) |
 | [0257-binary-tree-paths](https://github.com/kunal65823/DSA/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/kunal65823/DSA/tree/master/0572-subtree-of-another-tree) |
+| [1927-sum-game](https://github.com/kunal65823/DSA/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kunal65823/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kunal65823/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunal65823/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kunal65823/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kunal65823/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kunal65823/DSA/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/kunal65823/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kunal65823/DSA/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
